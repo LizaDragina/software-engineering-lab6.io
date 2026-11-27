@@ -1,0 +1,21 @@
+var NAVTREEINDEX0 =
+{
+"annotated.html":[1,0],
+"classMyLibrary_1_1Calculator.html":[0,0,0,0],
+"classMyLibrary_1_1Calculator.html":[1,0,0,0],
+"classProgram.html":[1,0,1],
+"classes.html":[1,1],
+"dir_3f6642f90fa1e8047bafe43db87758e5.html":[2,0,0,0,0],
+"dir_60b66583a4d1f860fdbe2574b4c8552f.html":[2,0,0,0,0,0],
+"dir_671ebe2a23425ff293ec5caf4c1740ff.html":[2,0,0,0],
+"dir_76ef4fd0e4519e9baa5fe388fae0158d.html":[2,0,0],
+"files.html":[2,0],
+"functions.html":[1,2,0],
+"functions_func.html":[1,2,1],
+"functions_vars.html":[1,2,2],
+"index.html":[],
+"mylibrary_8h_source.html":[2,0,0,0,0,0,0],
+"namespaceMyLibrary.html":[0,0,0],
+"namespaces.html":[0,0],
+"pages.html":[]
+};
